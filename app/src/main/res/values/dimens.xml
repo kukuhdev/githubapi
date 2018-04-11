@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="edittext_size">14sp</dimen>
+    <dimen name="item_offset0">0sp</dimen>
+    <dimen name="item_offset">5sp</dimen>
+    <dimen name="item_offset1">15sp</dimen>
+    <dimen name="item_offset2">10sp</dimen>
+    <dimen name="item_offset3">2sp</dimen>
+
+</resources>
